@@ -9,5 +9,6 @@
 import UIKit
 
 class MovieGridCell: UICollectionViewCell {
+    @IBOutlet weak var gridImage: UIImageView!
     
 }
